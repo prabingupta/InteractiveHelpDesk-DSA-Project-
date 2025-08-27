@@ -1,0 +1,4 @@
+Ticket ID:1, Title:Internet not working, Description:Cannot connect to office Wi-Fi since 9 AM., Priority:High, Status:Closed, Reporter Name:Prabin Kumar Gupta, Parent Ticket:None, Created On:2025-08-27 21:57:33
+Ticket ID:2, Title:Software installation request, Description:Request to install Adobe Photoshop on workstation 12., Priority:Low, Status:Open, Reporter Name:Hari Shrestha, Parent Ticket:None, Created On:2025-08-27 21:58:18
+Ticket ID:3, Title:Login page error, Description:Web portal shows “500 Internal Server Error” when trying to log in., Priority:High, Status:Open, Reporter Name:Ram Khatri, Parent Ticket:None, Created On:2025-08-27 21:58:58
+Ticket ID:4, Title:Monitor flickering, Description:Monitor in conference room flickers intermittently., Priority:Medium, Status:Open, Reporter Name:Suman Thapa, Parent Ticket:None, Created On:2025-08-27 21:59:43
